@@ -1,2 +1,5 @@
 # AnalizadorAritmetico
-Proyecto Segundo Parcial
+-Proyecto Segundo Parcial-
+
+* Link del video de YouTube: 
+...
